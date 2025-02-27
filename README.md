@@ -1,4 +1,4 @@
-For MMU Software Engineering Fundamental assigment
-Prototype build in Figma
+For MMU Software Engineering Fundamental assignment
+Prototype build in Figma 
 
 TT10L G6
